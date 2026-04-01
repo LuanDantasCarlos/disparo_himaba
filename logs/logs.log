@@ -1,0 +1,868 @@
+2025-10-07 18:57:41,069 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:02:01,424 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:02:47,197 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:05:24,894 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\settings.py changed, reloading.
+2025-10-07 19:05:25,376 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:05:38,974 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:06:06,580 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:06:20,324 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:06:33,851 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\settings.py changed, reloading.
+2025-10-07 19:06:35,175 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:07:08,503 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:07:41,205 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\settings.py changed, reloading.
+2025-10-07 19:07:41,895 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:10:48,240 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:13:23,753 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:13:33,565 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:24:48,853 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\settings.py changed, reloading.
+2025-10-07 19:24:49,619 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:25:58,721 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\models\__init__.py changed, reloading.
+2025-10-07 19:25:59,393 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:27:57,095 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py changed, reloading.
+2025-10-07 19:27:57,860 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:33:36,388 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py changed, reloading.
+2025-10-07 19:33:37,071 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:34:20,629 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:35:36,203 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py changed, reloading.
+2025-10-07 19:35:36,952 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:35:39,814 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\urls.py changed, reloading.
+2025-10-07 19:35:40,305 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:35:55,139 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:37:26,871 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:37:27,978 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:37:28,160 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:37:28,360 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:38:50,184 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:39:13,798 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:39:26,906 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:39:34,699 - WARNING - django.request:248 - Not Found: /dashboard/admin
+2025-10-07 19:39:34,775 - WARNING - django.request:248 - Not Found: /favicon.ico
+2025-10-07 19:39:41,247 - WARNING - django.request:248 - Not Found: /dashboard/admin/
+2025-10-07 19:39:56,653 - ERROR - django.request:248 - Internal Server Error: /dashboard/dados-atendimentos/
+2025-10-07 19:40:04,382 - WARNING - django.request:248 - Not Found: /dashboard/admin/
+2025-10-07 19:41:30,937 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\admin.py changed, reloading.
+2025-10-07 19:41:31,878 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:41:36,190 - ERROR - django.request:248 - Internal Server Error: /admin/broadcasts/broadcasts/
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: broadcasts_broadcast
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\options.py", line 867, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\views\main.py", line 146, in __init__
+    self.get_results(request)
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\views\main.py", line 313, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\models\query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\models\sql\query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\models\sql\query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1622, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: broadcasts_broadcast
+2025-10-07 19:42:25,497 - ERROR - django.request:248 - Internal Server Error: /admin/broadcasts/broadcasts/
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: broadcasts_broadcast
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\options.py", line 867, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\views\main.py", line 146, in __init__
+    self.get_results(request)
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\admin\views\main.py", line 313, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\models\query.py", line 604, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\models\sql\query.py", line 644, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\models\sql\query.py", line 626, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1622, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: broadcasts_broadcast
+2025-10-07 19:52:17,396 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\urls.py changed, reloading.
+2025-10-07 19:52:18,328 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-07 19:52:57,157 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:52:58,483 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:55:22,267 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:55:23,206 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:55:23,679 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:55:23,862 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:55:24,058 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:55:24,283 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:57:06,207 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:57:06,987 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:57:07,171 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:57:07,328 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:57:07,497 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:57:07,711 - WARNING - django.request:248 - Not Found: /dashboard/dados-atendimentos/
+2025-10-07 19:57:26,338 - ERROR - django.request:248 - Internal Server Error: /dashboard/baixar-excel-tabela-broadcast/none/none/
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py", line 92, in baixar_excel_tabela_broadcast
+    atendimentos_item["status_agendamento"] if atendimentos_item["status_agendamento"] else "-",
+                                               ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'status_agendamento'
+2025-10-07 19:57:26,462 - WARNING - django.request:248 - Not Found: /favicon.ico
+2025-10-07 19:57:55,070 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py changed, reloading.
+2025-10-07 19:57:56,018 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 07:04:59,804 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 07:05:16,163 - WARNING - django.request:248 - Not Found: /favicon.ico
+2025-10-08 07:09:50,532 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 07:16:04,884 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py changed, reloading.
+2025-10-08 07:16:06,173 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 07:16:32,322 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py changed, reloading.
+2025-10-08 07:16:33,156 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 07:16:50,838 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\settings.py changed, reloading.
+2025-10-08 07:16:51,567 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 07:18:13,081 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py changed, reloading.
+2025-10-08 07:18:14,063 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 07:22:33,362 - WARNING - django.request:248 - Not Found: /favicon.ico
+2025-10-08 08:05:54,103 - ERROR - django.request:248 - Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\urls\base.py", line 81, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'broadcasts'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py", line 20, in home
+    return render(request, "dashboard/dashboard.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\urls\base.py", line 92, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'broadcasts' is not a registered namespace
+2025-10-08 08:05:54,191 - WARNING - django.request:248 - Not Found: /favicon.ico
+2025-10-08 08:06:40,943 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 08:06:45,711 - ERROR - django.request:248 - Internal Server Error: /dashboard/
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\urls\base.py", line 81, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'broadcasts'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\views.py", line 20, in home
+    return render(request, "dashboard/dashboard.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\loader_tags.py", line 210, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 173, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\.venv\Lib\site-packages\django\urls\base.py", line 92, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'broadcasts' is not a registered namespace
+2025-10-08 08:08:48,334 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\urls.py changed, reloading.
+2025-10-08 08:08:48,938 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 08:08:54,618 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\urls.py changed, reloading.
+2025-10-08 08:08:55,343 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 08:09:04,399 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\urls.py changed, reloading.
+2025-10-08 08:09:05,088 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 08:09:08,872 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\urls.py changed, reloading.
+2025-10-08 08:09:09,477 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 08:09:11,097 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\urls.py changed, reloading.
+2025-10-08 08:09:11,808 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 08:09:33,296 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\setup\urls.py changed, reloading.
+2025-10-08 08:09:33,910 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 20:26:05,086 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 20:30:35,102 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\dashboard\apps.py changed, reloading.
+2025-10-08 20:30:35,593 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 20:56:05,473 - WARNING - django.request:248 - Not Found: /enviar_excel/
+2025-10-08 20:59:21,023 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 20:59:21,567 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:00:34,792 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:00:44,870 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:00:59,517 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:00:59,993 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:06,544 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:07,113 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:16,666 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:17,073 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:18,393 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:18,817 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:20,117 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:20,514 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:21,887 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:22,285 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:24,600 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:25,063 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:31,487 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:31,901 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:34,267 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:34,757 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:03:37,093 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:03:37,492 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:04:07,349 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:04:07,826 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:04:10,209 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:04:10,657 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:05:03,984 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:05:04,386 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:05:10,786 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:05:11,205 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:05:27,806 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:05:28,243 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:05:31,637 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:05:32,071 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:05:33,385 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:05:33,825 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:05:42,592 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:05:43,189 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:05:49,622 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:05:50,058 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:05:54,406 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:05:54,851 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:06:59,032 - WARNING - django.request:248 - Not Found: /enviar_excel/
+2025-10-08 21:07:24,007 - WARNING - django.request:248 - Not Found: /enviar_excel/
+2025-10-08 21:07:27,408 - WARNING - django.request:248 - Not Found: /enviar_excel/
+2025-10-08 21:07:39,462 - WARNING - django.request:248 - Not Found: /enviar_excel/
+2025-10-08 21:08:04,808 - WARNING - django.request:248 - Bad Request: /broadcasts/enviar_excel/
+2025-10-08 21:08:50,205 - WARNING - django.request:248 - Bad Request: /broadcasts/enviar_excel/
+2025-10-08 21:09:00,025 - WARNING - django.request:248 - Not Found: /http://localhost:8000/broadcasts//enviar_excel/
+2025-10-08 21:09:20,191 - WARNING - django.request:248 - Not Found: /localhost:8000/broadcasts/enviar_excel/
+2025-10-08 21:11:21,966 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\urls.py changed, reloading.
+2025-10-08 21:11:22,543 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:11:24,278 - WARNING - django.request:248 - Not Found: /localhost:8000/broadcasts/enviar_excel/
+2025-10-08 21:11:35,671 - WARNING - django.request:248 - Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-10-08 21:11:39,631 - WARNING - django.request:248 - Not Found: /localhost:8000/broadcasts/enviar_excel/
+2025-10-08 21:13:11,991 - WARNING - django.request:248 - Not Found: /localhost:8000/broadcasts/enviar_excel/
+2025-10-08 21:13:15,345 - WARNING - django.request:248 - Not Found: /localhost:8000/broadcasts/enviar_excel/
+2025-10-08 21:13:21,670 - WARNING - django.request:248 - Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-10-08 21:13:27,098 - WARNING - django.request:248 - Not Found: /enviar-excel/
+2025-10-08 21:13:48,108 - WARNING - django.request:248 - Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-10-08 21:13:53,488 - WARNING - django.request:248 - Bad Request: /broadcasts/enviar-excel/
+2025-10-08 21:14:38,450 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:14:38,917 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:16:14,725 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:16:15,185 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:16:18,965 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:16:19,388 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:16:25,199 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:16:25,636 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:16:31,524 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:16:31,981 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:16:33,848 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:16:34,362 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:16:38,178 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:16:38,836 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:19:26,709 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:19:27,249 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:19:36,214 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:19:36,652 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:19:58,545 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:19:58,981 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:20:00,913 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:20:01,430 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:00,255 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:00,840 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:09,812 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:10,301 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:13,055 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:13,488 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:16,256 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:16,720 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:20,074 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:20,520 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:21,825 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:22,261 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:23,573 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:23,971 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:25,296 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:25,656 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:34,132 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:34,521 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:36,871 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:37,249 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:41,582 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:41,997 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:43,322 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:43,709 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:45,007 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:45,392 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:53,324 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:53,819 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:21:58,727 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:21:59,201 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:08,214 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:08,745 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:12,654 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:13,066 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:14,857 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:15,355 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:24,463 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:24,874 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:31,936 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:32,464 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:37,859 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:38,291 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:45,378 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:45,898 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:47,837 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:48,300 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:50,134 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:50,540 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:54,407 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:22:55,023 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:22:59,162 - ERROR - django.request:248 - Internal Server Error: /broadcasts/enviar-excel/
+2025-10-08 21:23:06,598 - ERROR - django.request:248 - Internal Server Error: /broadcasts/enviar-excel/
+2025-10-08 21:23:33,672 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:23:34,210 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:23:40,338 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:23:40,871 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:23:44,667 - ERROR - django.request:248 - Internal Server Error: /broadcasts/enviar-excel/
+2025-10-08 21:24:49,754 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:24:50,320 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:24:53,472 - WARNING - django.request:248 - Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-10-08 21:25:09,758 - ERROR - django.request:248 - Internal Server Error: /broadcasts/enviar-excel/
+2025-10-08 21:25:25,902 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:25:26,378 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:25:28,142 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:25:28,643 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:25:30,454 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:25:30,964 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:25:33,066 - ERROR - django.request:248 - Internal Server Error: /broadcasts/enviar-excel/
+2025-10-08 21:25:43,304 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:25:43,796 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:25:47,713 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:25:48,198 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:25:50,540 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:25:51,020 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:25:54,155 - WARNING - django.request:248 - Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-10-08 21:25:59,115 - ERROR - django.request:248 - Internal Server Error: /broadcasts/enviar-excel/
+2025-10-08 21:26:21,020 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:26:21,502 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:26:23,292 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:26:23,767 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:26:25,479 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:26:25,956 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:26:28,719 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:26:29,229 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:26:31,947 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:26:32,468 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:26:34,214 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:26:34,683 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:26:47,900 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:26:48,360 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:26:50,249 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:26:50,667 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:01,163 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:01,568 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:04,916 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:05,274 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:08,898 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:09,391 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:15,523 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:15,995 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:17,816 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:18,246 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:23,344 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:23,777 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:33,150 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:33,674 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:34,998 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:35,401 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:37,433 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:37,966 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:39,960 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:40,465 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:42,870 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:43,277 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:45,348 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:45,776 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:49,906 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:50,336 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:27:52,392 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:27:52,823 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:06,254 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:06,776 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:08,084 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:08,578 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:09,919 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:10,334 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:12,658 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:13,119 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:19,574 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:20,050 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:26,451 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:27,032 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:29,094 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:29,557 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:33,729 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:34,215 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:40,419 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:40,859 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:28:42,927 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:28:43,418 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:29:26,955 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:29:27,517 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:29:29,652 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:29:30,093 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:29:36,211 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:29:36,746 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:29:40,856 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:29:41,353 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:29:45,394 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:29:45,874 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:29:48,970 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:29:49,405 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:29:51,725 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:29:52,237 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:29:59,698 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:00,114 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:01,421 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:01,874 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:03,192 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:03,641 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:05,672 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:06,261 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:15,583 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:16,125 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:25,667 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:26,156 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:46,803 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:47,351 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:51,476 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:51,882 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:57,064 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:30:57,555 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:30:59,899 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:00,313 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:31:08,778 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:09,227 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:31:10,520 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:10,959 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:31:14,343 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:14,788 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:31:21,182 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:21,555 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:31:27,959 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:28,347 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:31:45,985 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:46,429 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:31:53,854 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:54,249 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:31:58,366 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:31:58,818 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:32:33,815 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:32:34,385 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:32:36,451 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:32:36,946 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:32:40,083 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:32:40,621 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:32:43,683 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:32:44,206 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:32:46,318 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:32:46,756 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:32:59,051 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:32:59,513 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:33:02,683 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:33:03,193 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:33:12,513 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:33:13,184 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:35:05,696 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:35:06,184 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:35:18,050 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:35:18,566 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:35:20,844 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:35:21,339 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:35:24,371 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:35:24,840 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:35:28,157 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:35:28,740 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:36:42,599 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:36:43,076 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:36:45,494 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:36:45,921 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:38:26,798 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:38:27,423 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:38:30,859 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:38:31,243 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:39:17,367 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:39:17,876 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:39:23,007 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:39:23,652 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:39:47,771 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:39:48,270 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:39:49,610 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:39:50,088 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:40:53,273 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:40:53,717 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:40:58,087 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:40:58,483 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:41:01,515 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:41:02,030 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:41:03,329 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:41:03,739 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:41:35,616 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:41:36,094 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:42:36,957 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:42:37,494 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:42:43,320 - WARNING - django.request:248 - Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-10-08 21:43:10,449 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:43:11,077 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:43:18,729 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:43:19,252 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:53:20,022 - WARNING - django.request:248 - Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-10-08 21:55:41,881 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:55:42,449 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:55:46,849 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:55:47,517 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:55:57,070 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:55:57,529 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:55:59,576 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:56:00,089 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:56:03,228 - INFO - django.utils.autoreload:265 - D:\linux-vs-windows\free-lancer\luan-dantas\himaba\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-10-08 21:56:03,684 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-10-08 21:58:26,787 - WARNING - django.request:248 - Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2025-11-18 13:24:31,649 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:24:52,469 - WARNING - django.request:248 - Not Found: /dash
+2025-11-18 13:24:52,588 - WARNING - django.request:248 - Not Found: /favicon.ico
+2025-11-18 13:25:49,562 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:27:13,256 - ERROR - django.request:248 - Internal Server Error: /broadcasts/enviar-excel/
+2025-11-18 13:32:39,093 - INFO - django.utils.autoreload:265 - F:\himaba_project\whatsapp\services\whatsapp_service.py changed, reloading.
+2025-11-18 13:32:40,080 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:32:56,127 - INFO - django.utils.autoreload:265 - F:\himaba_project\whatsapp\services\whatsapp_service.py changed, reloading.
+2025-11-18 13:32:57,101 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:33:55,332 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:34:36,119 - INFO - django.utils.autoreload:265 - F:\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-11-18 13:34:37,066 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:35:34,958 - INFO - django.utils.autoreload:265 - F:\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-11-18 13:35:36,034 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:36:49,753 - INFO - django.utils.autoreload:265 - F:\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-11-18 13:36:50,772 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:37:15,260 - INFO - django.utils.autoreload:265 - F:\himaba_project\broadcasts\views\enviar_mensagem_view.py changed, reloading.
+2025-11-18 13:37:18,679 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:39:14,570 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:39:35,578 - INFO - broadcasts.views.enviar_mensagem_view:40 - {'sent': True, 'message': 'Sent to 27999973911@c.us', 'description': 'Message has been sent to the provider', 'id': 'wamid.HBgNNTUyNzk5OTk3MzkxMRUCABEYEkFCNUM1MjcwMUZFNENDNTNDNwA='}
+2025-11-18 13:40:24,881 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 13:40:27,831 - ERROR - django.security.DisallowedHost:124 - Invalid HTTP_HOST header: '292bb9fed781.ngrok-free.app'. You may need to add '292bb9fed781.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "F:\himaba_project\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "F:\himaba_project\.venv\Lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\himaba_project\.venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "F:\himaba_project\.venv\Lib\site-packages\django\http\request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '292bb9fed781.ngrok-free.app'. You may need to add '292bb9fed781.ngrok-free.app' to ALLOWED_HOSTS.
+2025-11-18 13:40:27,874 - WARNING - django.request:248 - Bad Request: /
+2025-11-18 13:40:55,172 - INFO - django.utils.autoreload:265 - F:\himaba_project\setup\settings.py changed, reloading.
+2025-11-18 13:40:56,234 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 14:29:20,178 - WARNING - django.request:248 - Not Found: /dash
+2025-11-18 15:11:47,884 - WARNING - django.request:248 - Not Found: /dash
+2025-11-18 15:11:48,711 - WARNING - django.request:248 - Not Found: /favicon.ico
+2025-11-18 15:11:57,921 - WARNING - django.request:248 - Not Found: /dash
+2025-11-18 15:12:16,518 - WARNING - django.security.csrf:248 - Forbidden (Origin checking failed - https://292bb9fed781.ngrok-free.app does not match any trusted origins.): /
+2025-11-18 15:12:30,975 - WARNING - django.security.csrf:248 - Forbidden (Origin checking failed - https://292bb9fed781.ngrok-free.app does not match any trusted origins.): /
+2025-11-18 15:12:51,236 - WARNING - django.security.csrf:248 - Forbidden (Origin checking failed - https://292bb9fed781.ngrok-free.app does not match any trusted origins.): /admin/login/
+2025-11-18 15:13:06,392 - WARNING - django.request:248 - Not Found: /dash
+2025-11-18 15:13:37,563 - WARNING - django.security.csrf:248 - Forbidden (Origin checking failed - https://292bb9fed781.ngrok-free.app does not match any trusted origins.): /
+2025-11-18 15:15:10,175 - WARNING - django.security.csrf:248 - Forbidden (Origin checking failed - https://292bb9fed781.ngrok-free.app does not match any trusted origins.): /
+2025-11-18 15:41:16,123 - INFO - django.utils.autoreload:265 - F:\himaba_project\setup\settings.py changed, reloading.
+2025-11-18 15:41:17,341 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 15:42:55,809 - INFO - django.utils.autoreload:265 - F:\himaba_project\setup\settings.py changed, reloading.
+2025-11-18 15:42:56,911 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 15:43:06,244 - INFO - django.utils.autoreload:265 - F:\himaba_project\setup\settings.py changed, reloading.
+2025-11-18 15:43:07,357 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 15:43:20,132 - WARNING - django.security.csrf:248 - Forbidden (Origin checking failed - https://292bb9fed781.ngrok-free.app does not match any trusted origins.): /
+2025-11-18 15:43:50,344 - WARNING - django.security.csrf:248 - Forbidden (Origin checking failed - https://292bb9fed781.ngrok-free.app does not match any trusted origins.): /
+2025-11-18 15:45:39,615 - INFO - django.utils.autoreload:265 - F:\himaba_project\setup\settings.py changed, reloading.
+2025-11-18 15:45:40,707 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 15:47:13,115 - INFO - django.utils.autoreload:667 - Watching for file changes with StatReloader
+2025-11-18 15:50:05,275 - WARNING - django.request:248 - Not Found: /dash
+2025-11-18 15:50:05,733 - WARNING - django.request:248 - Not Found: /favicon.ico
+2025-11-18 15:52:55,743 - INFO - broadcasts.views.enviar_mensagem_view:40 - {'sent': True, 'message': 'Sent to 27998356633@c.us', 'description': 'Message has been sent to the provider', 'id': 'wamid.HBgNNTUyNzk5ODM1NjYzMxUCABEYEjcyQ0I5NDk1OEUxNkU5NDFCNAA='}
+2025-11-18 15:53:00,387 - INFO - broadcasts.views.enviar_mensagem_view:40 - {'sent': True, 'message': 'Sent to 27999973911@c.us', 'description': 'Message has been sent to the provider', 'id': 'wamid.HBgNNTUyNzk5OTk3MzkxMRUCABEYEkUyQjlCNDNGRkQ2QzFDNUY1MgA='}
+2025-11-18 15:58:03,963 - INFO - broadcasts.views.enviar_mensagem_view:40 - {'sent': True, 'message': 'Sent to 27998356633@c.us', 'description': 'Message has been sent to the provider', 'id': 'wamid.HBgNNTUyNzk5ODM1NjYzMxUCABEYEjdCMzgzMTlERDZDMkE3MzdCMAA='}
+2025-11-18 15:58:08,606 - INFO - broadcasts.views.enviar_mensagem_view:40 - {'sent': True, 'message': 'Sent to 27999973911@c.us', 'description': 'Message has been sent to the provider', 'id': 'wamid.HBgNNTUyNzk5OTk3MzkxMRUCABEYEjhBRDg2N0ZERjAwNjVCQjdDQgA='}

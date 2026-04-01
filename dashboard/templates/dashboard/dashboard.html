@@ -1,0 +1,55 @@
+{% extends "base/base.html" %}
+{% load static %}
+
+{% block titulo_tela %}
+    Dashboard Geral
+{% endblock %}
+
+{% block cards %}
+
+{% endblock %}
+
+{% block  content %}
+<div class="col-12 scrollable"><!-- Start Tabela de Broadcasts -->
+    <div class="overflow-auto" style="max-height: 60vh;">
+        <div class="d-flex justify-content-between align-items-center mb-2">
+            <h2 class="titulo-tabela fw-bold fs-6 mt-2 mb-0">Tabela Broadcasts</h2>
+            
+            <div>
+                <input id="data-inicial" type="date" />
+                <input id="data-final" type="date" />
+                <a class="btn btn-primary btn-sm" id="baixar-excel">
+                    <span class="d-flex align-items-center">
+                        <i class='bx bxs-down-arrow-circle fs-4'></i> Exportar Excel
+                    </span>
+                </a>
+            </div>
+        </div>
+
+        <table id="tabela-broadcasts" class="table table-fonte datatable display table-borderless table-hover table-striped">
+            <thead>
+                <tr class="fs-14">
+                    <th>Id</th>
+                    <th>Nome</th>
+                    <th>Numero Do Destinatário</th>
+                    <th>Status da Mensagem</th>
+                    <th>Horário do Envio</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Seus dados aqui -->
+            </tbody>
+        </table>
+    </div>
+</div><!-- End Tabela de Broadcasts -->
+<div class="col-12">
+    <h3 class="fw-bold fs-4 my-3">Porcentagem dos Registros</h3>
+    <canvas id="bar-chart-grouped" width="600" height="200"></canvas>
+</div>
+
+{% endblock %}
+
+{% block js %}
+    <script src="{% static 'dashboard/js/dashboard.js' %}" ></script>
+{% endblock %}

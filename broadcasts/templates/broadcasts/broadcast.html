@@ -1,0 +1,141 @@
+{% extends "base/base.html" %}
+{% load static %}
+
+{% block titulo_tela %}
+    Dashboard Geral
+{% endblock %}
+
+{% block cards %}
+
+{% endblock %}
+
+{% block  content %}
+
+   <!-- Importar Boxicons e Bootstrap -->
+<link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+  .upload-container {
+    background: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    padding: 1.5rem;
+    width: 90%;
+    margin: 2rem auto;
+  }
+  .file-label {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    cursor: pointer;
+    border: 2px dashed #ccc;
+    padding: 1rem;
+    border-radius: .75rem;
+    text-align: center;
+    transition: all 0.3s;
+  }
+  .file-label:hover { background-color: #f8f9fa; border-color: #999; }
+  #fileInput { display: none; }
+  textarea { resize: none; }
+  .btn-send { background-color: #007bff; color: white; border: none; transition: 0.3s; }
+  .btn-send:hover { background-color: #0056b3; }
+</style>
+
+<div class="col-12 scrollable">
+  <div class="overflow-auto">
+    <div class="upload-container">
+      <h5><i class='bx bx-spreadsheet'></i> Envio de Mensagens</h5>
+
+      <label for="fileInput" class="file-label">
+        <i class='bx bx-upload'></i>
+        <span id="fileLabelText">Selecione o arquivo Excel (.xlsx)</span>
+      </label>
+      <input type="file" id="fileInput" accept=".xlsx, .xls">
+
+      <div class="mt-3">
+        <label for="mensagem" class="form-label fw-semibold">
+          <i class='bx bx-message-dots'></i> Mensagem
+        </label>
+        <textarea id="mensagem" class="form-control" rows="4" placeholder="Digite sua mensagem aqui..."></textarea>
+      </div>
+
+      <div class="mt-4 text-end">
+        <button class="btn btn-send" id="enviarBtn">
+          <i class='bx bx-send'></i> Enviar Mensagens
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const fileInput = document.getElementById("fileInput");
+  const fileLabelText = document.getElementById("fileLabelText");
+  const enviarBtn = document.getElementById("enviarBtn");
+
+  // Mostra o nome do arquivo selecionado
+  fileInput.addEventListener("change", () => {
+    fileLabelText.textContent = fileInput.files.length
+      ? fileInput.files[0].name
+      : "Selecione o arquivo Excel (.xlsx)";
+  });
+
+  // Captura o evento do botão de envio
+  enviarBtn.addEventListener("click", async () => {
+    const mensagem = document.getElementById("mensagem").value.trim();
+    const arquivo = fileInput.files[0];
+
+    if (!arquivo) {
+      alert("Selecione um arquivo Excel primeiro.");
+      return;
+    }
+    if (!mensagem) {
+      alert("Digite uma mensagem antes de enviar.");
+      return;
+    }
+
+    const formData = new FormData();
+    formData.append("arquivo_excel", arquivo);
+    formData.append("mensagem", mensagem);
+
+    try {
+      const response = await fetch("/broadcasts/enviar-excel/", {
+        method: "POST",
+        headers: {
+          "X-CSRFToken": getCookie("csrftoken")  // pega o CSRF do cookie
+        },
+        body: formData
+      });
+
+      if (!response.ok) throw new Error("Erro ao enviar dados.");
+
+      const result = await response.json();
+      alert(result.mensagem || "Enviado com sucesso!");
+    } catch (error) {
+      alert("Falha ao enviar: " + error.message);
+    }
+  });
+
+  // Função para pegar o CSRF Token do cookie
+  function getCookie(name) {
+    let cookieValue = null;
+    if (document.cookie && document.cookie !== "") {
+      const cookies = document.cookie.split(";");
+      for (let i = 0; i < cookies.length; i++) {
+        const cookie = cookies[i].trim();
+        if (cookie.substring(0, name.length + 1) === (name + "=")) {
+          cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+          break;
+        }
+      }
+    }
+    return cookieValue;
+  }
+</script>
+
+{% endblock %}
+
+{% block js %}
+    <script src="{% static 'dashboard/js/dashboard.js' %}" ></script>
+{% endblock %}

@@ -1,0 +1,422 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.wrapper {
+    min-height: 100vh; /* ocupa toda a tela */
+    display: flex;
+}
+
+.main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+#sidebar {
+    width: 90px;
+    min-width: 90px;
+    transition: all 0.25s ease-in-out;
+    background-color: #0B0F19;
+    display: flex;
+    flex-direction: column;
+}
+
+#sidebar.expand {
+    width: 260px;
+    min-width: 260px;
+}
+
+#sidebar:not(.expand) .sidebar-logo,
+#sidebar:not(.expand) a.sidebar-link span {
+    display: none;
+}
+
+.toggle-btn {
+    width: 30px;
+    height: 30px;
+    color: #FFF;
+    border-radius: 0.425rem;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #323C55;
+}
+
+.toggle-btn i {
+    color: #FFF
+}
+
+#sidebar.expand .sidebar-logo {
+    animation: fadeIn .25s ease;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.sedebar-logo a {
+    color: #FFF;
+    font-size: 1.15rem;
+    font-weight: 600;
+}
+
+.sidebar-nav {
+    padding: 0.7rem 0;
+    flex: 11 auto;
+    z-index: 10;
+}
+
+a.sidebar-link {
+    padding: .625rem 1.625rem;
+    color: #FFF;
+    display: block;
+    white-space: nowrap;
+    font-weight: 700;
+    border-left: 3px solid transparent;
+}
+
+.sidebar-link i,
+.dropdown-item i {
+    font-size: 1.1rem;
+    margin-right: .75rem;
+}
+
+.sidebar-link i,
+.dropdown-item i {
+    font-size: 1.1rem;
+    margin-right: .75rem;
+}
+
+a.sidebar-link:hover {
+    background-color: rgba(255, 255, 255, .075);
+    border-left: 3px solid #3B7DDD;
+}
+
+.sidebar-item {
+    position: relative;
+}
+
+#sidebar:not(.expand) .sidebar-item .sidebar-dropdown {
+    position: absolute;
+    top: 0;
+    left: 90px;
+    background-color: #0E2238;
+    padding: 0;
+    min-width: 10rem;
+}
+
+#sidebar:not(.expand) .sidebar-item:hover .has-dropdown+.sidebar-dropdown {
+    display: block;
+    max-height: 15em;
+    width: 100%;
+    opacity: 1;
+}
+
+#sidebar:not(.expand) .sidebar-item .sidebar-dropdown .sidebar-dropdown{
+    left: 130px;
+}
+
+#sidebar.expand .sidebar-link[data-bs-toggle="collapse"]::after{
+    border: solid;
+    border-width: 0 .075rem .075rem 0;
+    content:"";
+    display: inline-block;
+    padding: 2px;
+    position: absolute;
+    right: 1.5rem;
+    top:1.4rem;
+    transform: rotate(-135deg);
+    transition: all .2s ease-out;
+}
+
+#sidebar.expand .sidebar-link[data-bs-toggle="collapse"].collapsed::after{
+    transform: rotate(45deg);
+    transition: all .2s ease;
+}
+
+.sedebar-dropdown .sidebar-link {
+    position: relative;
+    padding-left: 3rem;
+    transition: all 0.05s;
+}
+
+.sidebar-dropdown a.sidebar-link::before {
+    position: absolute;
+    left: 1.8rem;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: all 0.5s;
+}
+
+.sidebar-dropdown a.sidebar-link:hover {
+    background: transparent;
+    border-left: 3px solid transparent;
+    padding-left: 2rem;
+    color: #7277F2;
+}
+
+.navbar {
+    background-color:#FFF;
+    box-shadow: 0 0 2rem 0 rgba(33, 37, 41, 0.1);
+}
+
+.navbar-expand .navbar-collapse {
+    min-width: 200px;
+}
+    
+.avatar {
+    height: 40px;
+    width: 40px;
+}
+
+.card {
+    background-color: #FFF;
+    transition: .4s;
+    cursor: pointer;
+    color: #000;
+    margin-bottom: 1rem;
+    border-color: rgba(231, 234, 243, 0.7);
+}
+
+.card h6 {
+    text-transform: uppercase;
+    font-size: .7161rem;
+    margin-bottom: .25rem;
+}
+
+.card:hover {
+    background-color: #293b5f;
+    color: #FFF;
+    transform: translateY(-10.5px)
+}
+
+.table>thead tr {
+    text-align: left;
+}
+
+tr.highlight th {
+    background-color: #293B5F;
+    color: #FFF;
+}
+
+.content {
+    flex: 11 auto
+}
+
+footer {
+    background-color: #F5F5F5;
+    padding: 0.5rem 0px;
+}
+
+@media(min-width:788px) {
+    
+    .input-group-navbar .form-control:focus {
+        outline: none;
+        box-shadow: 0 0 0 0 rgba(255, 255, 255);
+        border: none;
+        background-color: #F5F5F5;
+    }
+
+    .input-group-navbar {
+        max-width: 320px;
+    }
+
+    .input-group-navbar .form-control {
+        color: #3E4455;;
+        background-color: #F5F5F5;
+        height: calc(2.44375rem + 2px);
+    }
+
+    .input-group-navbar .btn {
+        color: #000;
+        background-color: #F5F5F5;
+        cursor: pointer;
+        z-index:1000;
+    }
+
+    .input-group-navbar .btn:active {
+        background-color: #F5F5F5;
+    }
+
+    .navbar-expand .navbar-nav .dropdown-menu {
+        box-shadow: 0 .1rem .2rem rgba(0, 0, 0, .5);
+    }
+}
+
+i {
+    cursor: pointer;
+}
+
+.icon-green {
+    color: green;
+}
+.icon-yellow {
+    color: rgb(197, 197, 62);
+}
+.icon-red {
+    color: red;
+}
+
+.btn-cadastrar {
+    border: solid 1px #293B5F;
+    padding: 1px 4px;
+    color: #FFF;
+    background-color: #293B5F;
+    margin-bottom: 2px;
+}
+
+.btn-cadastrar:hover {
+    border: solid 1px #293B5F;
+    padding: 1px 4px;
+    color: #293B5F;
+    background-color: #FFF;
+}
+
+.btn-oculto {
+    display: none;
+}
+
+/* Botão toggle */
+.toggle-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 34px;   
+  height: 18px;  
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  background-color: #ccc;
+  border-radius: 34px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: 0.4s;
+}
+
+.slider::before {
+  content: "";
+  position: absolute;
+  height: 13px;  
+  width: 13px;   
+  left: 2.5px;
+  bottom: 2.5px;
+  background-color: white;
+  border-radius: 50%;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #293B5F;
+}
+
+input:checked + .slider::before {
+  transform: translateX(16px); /* Ajustado para novo tamanho */
+}
+
+/* --- CSS Boxicons Personalido --- */
+.icon-size-20 {
+    font-size: 20px;
+}
+
+.container-form {
+    padding: 0px !important;
+}
+
+.form-floating-sm .form-control {
+    height: 2.5rem; /* menor que o padrão de ~3.5rem */
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    font-size: 0.875rem;
+}
+
+.form-floating-sm label {
+    padding: 0.7em 0.75rem;
+    font-size: 0.75rem;
+}
+
+/* --- CSS BootStrap Personalido --- */
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.fs-14 {
+    font-size: 15px;
+}
+
+
+/* --- CSS DataTables Personalido --- */
+/* Zerando o padding da tabela*/
+.datatable-top {
+    padding: 0 !important;
+}
+
+/* Select da qtd de registro por páginas*/
+.datatable-selector {
+    width: 50px;
+    font-size: 13px;
+}
+
+.disabled {
+    pointer-events: none;  /* desativa clique */
+    opacity: 0.5;          /* visualmente esmaecido */
+    cursor: not-allowed;
+}
+
+.col-12.scrollable {
+    max-height: 100vh;  /* altura máxima da div (100% da viewport) */
+    width: 98%; 
+    overflow-y: visible;   /* adiciona scroll vertical quando necessário */
+    padding-bottom: 2rem;
+    margin: 0 auto; 
+}
+
+  .table-wrapper {
+    max-height: 60vh;       /* controla altura máxima da tabela */
+    overflow-y: auto;        /* ativa scroll vertical */
+    overflow-x: auto;        /* ativa scroll horizontal */
+    border-radius: .5rem;
+  }
